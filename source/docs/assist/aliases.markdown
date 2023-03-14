@@ -7,3 +7,5 @@ Assist will use the names of your entities, as well as any aliases you've config
 ![Alias example](/images/blog/2023-01/aliases-cloud-multi-language.png)
 
 By adding aliases in your native language, you can speak to Home Assistant with the language configured on your [Android watch](/docs/assist/android/) or [Apple device](/docs/assist/apple/).
+
+Currently, it is possible to set up aliases via UI for Areas via clicking the Edit button in the top right corner.
